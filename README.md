@@ -1,5 +1,4 @@
-# poc-test-harness
-<!-- BEGIN_TF_DOCS -->
+
 ## Requirements
 
 No requirements.
